@@ -1,7 +1,5 @@
-//2212020
-//SUBHAM MAJUMDER
+//Jahanavi Mour -2212058
 //to divide two numbers
-//TC O(n^2!) SC O(n)
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
